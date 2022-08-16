@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning in the Bootcamp of Oto **https://oto.bitcamp.ge/**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chkhikvadzeg](https://github.com/chkhikvadzeg)
+- 👨‍💻 All of my projects are available at [https://github.com/chkhikvadzeg](https://github.com/Chkhikvadzeg?tab=repositories)
 
 - 📫 How to reach me **https://www.linkedin.com/in/giorgi-chkhikvadze-3b4316241/**
 
