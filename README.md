@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgi Chkhikvadze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/chkhikvadzeg/chkhikvadzeg/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chkhikvadzeg&label=Profile%20views&color=3f5427&style=plastic" alt="chkhikvadzeg" /> </p>
 
