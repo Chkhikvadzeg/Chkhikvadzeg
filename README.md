@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgi Chkhikvadze</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h3 align="center">Frontend developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chkhikvadzeg&label=Profile%20views&color=3f5427&style=plastic" alt="chkhikvadzeg" /> </p>
 
