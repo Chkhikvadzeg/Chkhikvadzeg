@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chkhikvadzeg" alt="chkhikvadzeg" /></a> </p>
 
-- 🌱 I’m currently learning in the Bootcamp of Oto **https://oto.bitcamp.ge/**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chkhikvadzeg](https://github.com/chkhikvadzeg)
-
-- 📫 How to reach me **https://www.linkedin.com/in/giorgi-chkhikvadze-3b4316241/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giorgi chkhikvadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgi chkhikvadze" height="30" width="40" /></a>
